@@ -34,6 +34,14 @@ if(@$_SESSION['password'] == 'nub'){
 }else{
 
 	echo '<body style="background-color:#222;color:red;font-family:rockwell">
+		<table style="border:2px solid white;color:white">
+		<tr><td>
+			<b><td><span style="color:white;">Greets to </span>:</td><td><span><a href="http://blog.lolwaleet.com" target="_blank" style="text-decoration:none;color:lightblue">Abk Khan</a></span></td>
+					<td> <span style="color:white">|</span> <span style="color:silver">Rahul Maini</span></td>
+					<td> <span style="color:white">| </span><span style="color:lightgreen">Rony Das </span></td>
+			</td></b>
+			</tr>				 
+		</table>
 		<center>
 		<span style="font-size:35px;color:green;">SIMPLE SHELL</span><br><br>
 		<form action="" method="POST">
