@@ -510,7 +510,7 @@ if(@$_SESSION['password'] == 'nub'){
 					fclose($handle);
 					echo "<style>#htbl{display:none;}</style>";
 					echo "<center><form id='lol' action='' method='POST'><input type='submit' style='border:1px solid white;color:white;background-color:gray;' name='edit' value='edit'></form></center>";
-					echo "<div id='lol' style='width:70%;margin:0 auto;height:500px;overflow:auto;border:5px solid white;color:black;background-color:gray;'><pre>".htmlspecialchars($data)."</pre></div>";
+					echo "<div id='lol' style='width:70%;margin:0 auto;height:500px;overflow:auto;border:5px solid white;color:black;background-color:gray;'><pre>".htmlspecialchars($data)."</pre></div><hr>";
 				}else{
 					echo "<center><p style='color:red'>The file is not readable.</p></center>";
 				}
